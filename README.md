@@ -20,3 +20,7 @@ spring.datasource.password=
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
 spring.data.jpa.repositories.bootstrap-mode=default
+
+# Ref URL
+
+https://spring.io/guides/gs/accessing-data-mysql
